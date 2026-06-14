@@ -1,6 +1,6 @@
 # ChrPin
 
-[中文](README.zh-CN.md) | English
+[中文](README.md) | English
 
 ChrPin is a small Windows tray app for pinning any normal window above other windows.
 
