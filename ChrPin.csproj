@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <AssemblyName>ChrPin</AssemblyName>
+    <RootNamespace>ChrPin</RootNamespace>
+    <ApplicationIcon>Assets\ChrPin.ico</ApplicationIcon>
+    <Product>ChrPin</Product>
+    <Description>A lightweight Windows always-on-top tray utility.</Description>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+</Project>
